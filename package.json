@@ -1,5 +1,10 @@
 {
   "name": "startup-foodtech",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kamusone/startup-foodtech.git",
+  "author": "kamus benayad <kamel@benayad.ovh>",
+  "license": "MIT"
 }
